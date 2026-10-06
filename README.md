@@ -703,6 +703,7 @@ Anvaya was designed with privacy-first principles recognizing the sensitive natu
 
 ## 11. License
 
-Released under the MIT Open Source License.
+Proprietary / All Rights Reserved. You may view and fork this code on GitHub, but you do not have permission to use, modify, or distribute it for any purpose.
+
 
 *Anvaya transforms the grief-stricken chaos of financial recovery into a structured, deterministic, and compassionate digital journey.*
